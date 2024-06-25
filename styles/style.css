@@ -1,0 +1,70 @@
+.prew {
+    
+    width: 200px;
+    height: 100px;
+    
+}
+
+.new1 {
+    background: url("..//img/new1.jpg");
+    background-size: cover;
+}
+
+.new2 {
+    background: url("..//img/new2.jpg");
+    background-size: cover;
+}
+
+.new3 {
+    background: url("..//img/new3.png");
+    background-size: cover;
+}
+
+.dance {
+    background: url("..//img/PguuSneL0bY.jpg");
+    background-size: cover;
+}
+
+.book {
+    background: url("..//img/acb716b7f64dc7d9aabacd19d076de52.jpg");
+    background-size: cover;
+}
+
+.courses {
+    background: url("..//img/card.png");
+    background-size: cover;
+}
+
+body {
+    background-color: rgb(194, 158, 164);
+
+}
+
+h1{
+    font-size: 24px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 18px;
+}
+
+*{
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul{
+    background: wheat;
+}
+
+li{
+    padding: 10px;
+}
