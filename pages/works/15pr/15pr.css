@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(42, 31, 31);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(217, 174, 218);
+}
+.vse{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    gap: 10px;
+    width: 700px;
+    
+}
+
+.svecha1{
+    grid-row: span 3;
+    background: url(img/KALANI.jpg);
+    width: 380px;
+    height: 600px;
+   
+}
+
+.svecha2{
+    width: 390px;
+    height: 250px;
+    background: url(img/Thin\ Candle\ Label\ Template\,\ Horizontal\ Candle\ Label\,\ Minimal\ Candle\ Label\,\ Vertical\ Label\ Template\,\ Candle\ Horizontal\ Label\ -\ Etsy.jpg);
+    background-size: cover;
+}
+
+.svecha3{
+    width: 390px;
+    height: 250px;
+    background: url(img/Если\ ты\ немного\ ведьма.jpg);
+    background-size: cover;
+}
+.svecha4{
+    width: 390px;
+    height: 250px;
+    background: url(img/загруженное\ \(10\).jpg);
+    background-size: cover;
+}
+.svecha5{
+    width: 390px;
+    height: 250px;
+    background: url(img/загруженное\ \(9\).jpg);
+    background-size: cover;
+}
+.text{
+    grid-column: span 2;
+    color: rgb(190, 166, 166);
+}
