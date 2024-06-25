@@ -1,0 +1,71 @@
+.abzats1{
+    text-align: center;
+}
+.abzats2{
+    text-indent: 40px;
+}
+.abzats3{
+    line-height: 222%;
+}
+.abzats4{
+    vertical-align: super;
+}
+.abzats5{
+    word-spacing: -0.5em;
+}
+.abzats6{
+    letter-spacing: 10px;
+}
+.abzats7{
+    white-space: pre;
+}
+.abzats8{
+    tab-size: 120px;
+}
+.abzats9{
+    text-transform: capitalize;
+}
+.abzats10{
+    direction: rtl;
+}
+#id1{
+    unicode-bidi: bidi-override;
+}
+#id2{
+    text-decoration: overline;
+}
+#id3:first-letter {
+        font-size: 2em;
+        padding: 5px 10px;
+        margin-right: 6px; 
+        background: #603a8d;
+        color: #FAF4F4;
+        float: left;
+        border-radius: 50% 0;
+        font-weight: bold;
+}
+#id4{
+    quotes:\201C;
+}
+#id5{
+    font-family: "Times New Roman", Georgia, Serif;
+}
+#id6{
+    font-style: italic;
+}
+#id7{
+    font-variant: small-caps;
+}
+#id8{
+    font-weight: bold;
+}
+#id9{
+    font-size: 40px;
+}
+#id10{
+    color: #a60303;
+}
+#id11{
+    font: italic bold 14px/1.5 Times, 'New Century Schoolbook', serif;
+}
+

@@ -1,0 +1,64 @@
+@font-face {
+    font-family: RobotoItalic;
+    src: url("../8практическаяработа/font/Roboto/Roboto-Italic.ttf");
+}
+.b1{
+    width: 1450px;
+    height: 350px;
+    border: 5px solid rgb(40, 12, 71);
+    margin: 20px;
+}
+.b2{
+    width: 1450px;
+    height: 350px;
+    border: 5px solid rgb(40, 12, 71);
+    margin: 20px; 
+}
+.b3{
+    width: 1450px;
+    height: 350px;
+    border: 5px solid rgb(40, 12, 71);
+    margin: 20px;
+}
+div h3{
+    margin-left: 15px;
+    font-family: RobotoRegular;
+}
+div p{
+    
+    font-family: RobotoRegular;
+    margin-left: 15px;
+    line-height: 40px;
+    
+}
+div a{
+    margin: 10px;
+    float: right;
+    font-family: RobotoRegular;
+}
+.f1{
+    background: url(../8практическаяработа/images/8пр1.png);
+    width: 210px;
+    height: 120px;
+    margin: 10px;
+    float: left;
+    border: 3px solid rgb(97, 8, 50);
+    
+}
+.f2{
+    background: url(../8практическаяработа/images/8пр2.png);
+    width: 210px;
+    height: 120px;
+    margin: 10px;
+    border: 3px solid rgb(97, 8, 50);
+    float: left;
+    
+}
+.f3{
+    background: url(../8практическаяработа/images/8пр3.png);
+    width: 210px;
+    height: 120px;
+    margin: 10px;
+    float: left;
+    border: 3px solid rgb(97, 8, 50);
+}
