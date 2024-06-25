@@ -1,0 +1,263 @@
+.menu{
+    display:flex;
+    list-style: none;
+    border: 1px;
+}
+.menu h1{
+    padding-right: 750px;
+}
+.menu p{
+
+    margin: 15px;
+
+}
+.start{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background: url(../16практическаяработа/img/header\ image_rectangle.png);
+    height: 600px;
+    width: 1500px;
+}
+.start h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+.start p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.start button{
+    border-color: white;
+    font-size: 20px;
+    border-width: 4px;
+    color: #ece8e8;
+    background: none;
+    padding: 20px 40px;
+    border-radius: 3px;
+}
+.start button:hover{
+    color: #fff;
+    background-color: rgb(49, 88, 59);
+    border: none;
+}
+.Us h1{
+    text-align: center;
+}
+.Us p{
+    text-align: center;
+    justify-content: center;
+}
+.Us2{
+    display: flex;
+}
+.Us2 .inet{
+    display: flex;
+    flex-wrap: wrap;
+    width: 450px;
+    height: 200px;
+    align-content: flex-start;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+.inet h2{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    justify-content: center;
+    width: 1000px;
+    height: 10px;
+}
+.Us2 .tyda{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 200px;
+}
+.tyda h2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1000px;
+    height: 10px;
+}
+.Us2 .head{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 200px;
+}
+.head h2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1000px;
+    height: 10px;
+}
+.Service{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(70, 125, 169);
+    width: 1500px;
+    height: 1200px;
+   
+}
+
+
+.Service .vse{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin-left: 80px;
+    width: 950px;
+    height: 900px;
+}
+
+.vse button{
+    font-size: 15px;
+    border-color: white;
+    border-width: 2px;
+    background: rgb(205, 206, 221);
+    padding: 15px 30px;
+    border-radius: 1px;
+    height: 300px;
+    justify-content: center;
+}
+
+.vse button:hover{
+    color: #9a9bba;
+    background-color: rgb(17, 48, 38);
+    border: none;
+}
+
+.podval{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(60, 91, 81);
+    color: white;
+    height: 760px;
+    width: 1500px;
+}
+.inf{
+    display: flex;
+    font-family: Arial;
+}
+.inf .mesto{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    width: 460px;
+    height: 160px;
+}
+.inf .allo{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    width: 460px;
+    height: 160px;
+}
+.inf .email{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    width: 460px;
+    height: 160px;
+}
+.mesto p{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    justify-content: center;
+    width: 1000px;
+    height: 30px;
+}
+.allo p{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    justify-content: center;
+    width: 1000px;
+    height: 30px;
+}
+.email p{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    justify-content: center;
+    width: 1000px;
+    height: 30px;
+}
+.knop{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    justify-content: flex-end;
+    border-width: 3px;
+    border-radius: 10px;
+    border-color: rgb(126, 208, 181);
+    width: 200px;
+}
+
+form{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    margin: 60px;
+    margin-left: 100px;
+    width: 500px;
+    height: 200px;
+}
+.input1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 60px;
+    width: 200px;
+    height: 40px;
+}
+.input2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 40px;
+}
+
+.knop button{
+    font-size: 15px;
+    border-color: white;
+    border-width: 2px;
+    background: rgb(92, 93, 107);
+    border-radius: 1px;
+    height: 20px;
+}
+
+input{
+    border-width: 2px;
+    border-radius: 10px;
+}
+.Konets{
+    display: flex;
+    justify-content: center;
+}

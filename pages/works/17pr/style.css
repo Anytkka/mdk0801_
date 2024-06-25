@@ -1,0 +1,112 @@
+body{
+    width: 1080px;
+}
+header{
+    background: url(img/111.png);
+}
+h1{
+    color:rgb(255, 255, 255);
+    font-size: 56px;
+    margin-left: 50px;
+}
+a{
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-decoration: none;
+    margin-left: 80px;
+}
+.shapka{
+    display: flex;
+}
+.i1{
+  margin-left: 700px;
+  margin-top: 40px;
+}
+.img1{
+    width: 70px;
+    height: 40px;
+    margin: 50px;
+}
+.img2{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.img3{
+    width: 80px;
+    height: 80px;
+    margin-left: 20px;
+}
+main{
+    margin-top: 20px;
+}
+.l1{
+    display: flex;
+    gap: 700px;
+    margin-bottom: 10px;
+}
+.k{
+    display: flex;
+    gap: 20px;
+}
+p{
+    color: rgb(158, 158, 158);
+}
+.p1{
+    text-align: right;
+    font-size: 24px;
+}
+.img7{
+    width: 100px;
+    height: 100px;
+}
+.kartinki{
+    display: flex;
+    gap:5px;
+    justify-content: center;
+}
+.img4{
+    width: 450px;
+    height: 300px;
+}
+.knopki{
+    display: flex;
+    margin: 10px 90px ;
+    gap: 20px;
+}
+button{
+    border-radius: 20px;
+    border: none;
+    width: 80px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+}
+.b1{
+    background-color: rgb(117, 154, 154);
+}
+.b2{
+    background-color: rgb(163, 94, 169);
+}
+.b3{
+    background-color: rgb(197, 150, 69);
+}
+.img6{
+    width: 100px;
+    height: 100px;
+}
+.kartinka{
+    text-align: center;
+}
+.img5{
+    width: 900px;
+    height: 500px;
+}
+.img8{
+    position: absolute;
+    left: 800px;
+    top: 270px;
+    width: 90px;
+    height: 90px;
+}
+
+

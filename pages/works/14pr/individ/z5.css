@@ -1,0 +1,11 @@
+.stage{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    opacity: 0;
+    transition: opacity 1.5s ease-in-out;
+}
+
+.stage:hover{
+    opacity: 1;
+}
